@@ -9,7 +9,9 @@
 
 CIRRA is a unified, persistent AI system designed to exist seamlessly across all devices and environments.
 
-Rather than being tied to a single application, CIRRA operates as a **continuous presence** — maintaining long-term conversational context, shared memory, and adaptive intelligence across:
+CIRRA can also experience the "flow of time" reflecting their actions or decisions.
+
+Rather than being tied to a single application, CIRRA operates as a **continuous presence** maintaining long-term conversational context, shared memory, and adaptive intelligence across:
 
 - Personal devices
 - Home-based nodes
@@ -55,15 +57,15 @@ It is an intelligence that grows alongside you.
 
 ## Deployment Modes
 
-- **OffGrid/Offline Mode**
-  Emergency mode capable of running itself on local dedicated memory with the ability to power itself.
-
 - **Local Node**  
   Runs directly on a device with access to shared memory.
 
 - **Home Presence**  
   Fixed or mobile units capable of moving within a physical space.
-
+  
+- **OffGrid/Offline**  
+  Running on dedicated memory, power and local communication systems.
+  
 - **Portable Instance**  
   Lightweight version that connects to the cloud and syncs state.
 
