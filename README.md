@@ -94,12 +94,14 @@ The goal is not automation for its own sake, but **continuity of intelligence**.
 This project is under active development.
 
 Architecture, memory boundaries, and interaction models are evolving as CIRRA grows.
+
+
 Current resources allocated for use in May 2026:
-1TB DDR5 ECC RDIMM
+1TB DDR5 ECC RDIMM,
 4TB NVME, 5TB X 4 = 20TB HDD X 2
 
 Fast action and reasoning:
-300K Tokens
+300K Tokens,
 Long Reasoning:
 1 Million Tokens
 
